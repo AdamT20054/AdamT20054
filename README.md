@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **C++, JS and web/app development**
 
-- 👯 I’m looking to collaborate on [Lyckas](https://github.com/AdamT20054/Lyckas22)
+- 👯 I’m looking to collaborate on [Lyckas](https://github.com/AdamT20054/Lyckas)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdamT20054](https://github.com/AdamT20054)
+- 👨‍💻 All of my projects are available at [https://github.com/AdamT20054](https://github.com/AdamT20054?tab=repositories)
 
 - 💬 Ask me about **Cryptocurrency, hardware or anything PC related :D**
 
