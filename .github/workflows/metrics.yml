@@ -27,7 +27,7 @@ jobs:
 
           # Options
           user: AdamT20054
-          config_order: base.header, isocalendar, languages, stars
+          config_order: base.header, isocalendar, languages, wakatime, habits, repositories, base.activity, base.community, base.repositories, base.metadata stars
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
@@ -55,7 +55,7 @@ jobs:
           plugin_wakatime_languages_other: yes
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
           plugin_introduction: yes
