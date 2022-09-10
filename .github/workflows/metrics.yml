@@ -27,7 +27,7 @@ jobs:
 
           # Options
           user: AdamT20054
-          config_order: base.header, isocalendar, languages, wakatime, base.activity, base.community, habits, repositories, base.metadata, stars
+          config_order: base.header, repositories.featured, isocalendar, languages, wakatime, base.activity, base.community, habits, repositories, base.metadata, stars
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
