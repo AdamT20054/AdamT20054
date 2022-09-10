@@ -17,10 +17,10 @@ jobs:
 
           # Options
           user: AdamT20054
-          template: classic
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          base: header, activity, community, repositories, metadata
+          template: classic
+          base: header, activity, community, metadata
           repositories_forks: no
           config_display: large
           config_timezone: Europe/London
@@ -30,6 +30,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
+          plugin_languages_details: percentage
           
           plugin_achievements: yes
           plugin_achievements_display: detailed
