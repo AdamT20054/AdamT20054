@@ -27,6 +27,7 @@ jobs:
 
           # Options
           user: AdamT20054
+          config_order: base.header, isocalendar, languages, stars
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
@@ -40,8 +41,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 50
           plugin_activity_visibility: all
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: chartist
