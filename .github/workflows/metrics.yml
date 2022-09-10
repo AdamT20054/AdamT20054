@@ -2,10 +2,10 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 */4 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -28,8 +28,9 @@ jobs:
           # Options
           user: AdamT20054
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, community, repositories, metadata
           base_indepth: yes
+          base_skip: yes
           config_display: large
           config_octicon: yes
           config_timezone: Europe/London
@@ -45,7 +46,8 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: chartist
           plugin_habits_days: 365
-          plugin_habits_from: 250
+          plugin_habits_facts: yes
+          plugin_habits_from: 150
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 5%
           plugin_introduction: yes
@@ -60,7 +62,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 200
+          plugin_languages_recent_load: 150
           plugin_languages_sections: most-used
           plugin_languages_threshold: 5%
           plugin_notable: yes
