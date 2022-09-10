@@ -39,14 +39,14 @@ jobs:
           plugin_activity_days: 30
           plugin_activity_filter: all
           plugin_activity_limit: 5
-          plugin_activity_load: 50
+          plugin_activity_load: 350
           plugin_activity_visibility: all
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: chartist
           plugin_habits_days: 365
           plugin_habits_facts: yes
-          plugin_habits_from: 150
+          plugin_habits_from: 300
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 1%
           plugin_wakatime: yes
@@ -63,14 +63,14 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout: 900
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 150
+          plugin_languages_recent_load: 600
           plugin_languages_sections: most-used
           plugin_languages_threshold: 1%
           plugin_repositories: yes
