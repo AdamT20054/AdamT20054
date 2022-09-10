@@ -50,6 +50,15 @@ jobs:
           plugin_habits_from: 150
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 5%
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 365
+          plugin_wakatime_languages_other: yes
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
@@ -65,25 +74,11 @@ jobs:
           plugin_languages_recent_load: 150
           plugin_languages_sections: most-used
           plugin_languages_threshold: 5%
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit
           plugin_repositories: yes
           plugin_repositories_featured: DJScaptcha
           plugin_repositories_order: featured, pinned, starred, random
           plugin_repositories_pinned: 0
           plugin_repositories_starred: 0
           plugin_traffic: yes
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 365
-          plugin_wakatime_languages_other: yes
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
           repositories_batch: 500
           repositories_forks: yes
