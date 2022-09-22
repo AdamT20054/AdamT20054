@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1265,12 +1265,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 66 commits)</small>
+                    <small class="h-details">(computed from last 67 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 57.2 characters per line of code written</li>
+                        <li>Has approximately 57.5 characters per line of code written</li>
                         <li>Mostly pushes code around 01:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -1291,8 +1291,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,103C36.304,81,42.609,37,48.913,37C55.217,37,61.522,110.333,67.826,110.333C74.13,110.333,80.435,98.6,86.739,88.333C93.043,78.067,99.348,37,105.652,37C111.957,37,118.261,61.444,124.565,73.667C130.87,85.889,137.174,106.259,143.478,110.333C149.783,114.407,156.087,115.222,162.391,117.667C168.696,120.111,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,120.111,294.783,117.667C301.087,115.222,307.391,110.333,313.696,110.333C320,110.333,326.304,115.222,332.609,117.667C338.913,120.111,345.217,125,351.522,125C357.826,125,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,116.852,408.261,110.333C414.565,103.815,420.87,81,427.174,81C433.478,81,439.783,103,446.087,103C452.391,103,458.696,83.444,465,73.667L465,125Z" class="ct-area"/>
-                                        <path d="M30,103C36.304,81,42.609,37,48.913,37C55.217,37,61.522,110.333,67.826,110.333C74.13,110.333,80.435,98.6,86.739,88.333C93.043,78.067,99.348,37,105.652,37C111.957,37,118.261,61.444,124.565,73.667C130.87,85.889,137.174,106.259,143.478,110.333C149.783,114.407,156.087,115.222,162.391,117.667C168.696,120.111,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,120.111,294.783,117.667C301.087,115.222,307.391,110.333,313.696,110.333C320,110.333,326.304,115.222,332.609,117.667C338.913,120.111,345.217,125,351.522,125C357.826,125,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,116.852,408.261,110.333C414.565,103.815,420.87,81,427.174,81C433.478,81,439.783,103,446.087,103C452.391,103,458.696,83.444,465,73.667" class="ct-line"/>
+                                        <path d="M30,125L30,103C36.304,81,42.609,37,48.913,37C55.217,37,61.522,110.333,67.826,110.333C74.13,110.333,80.435,98.6,86.739,88.333C93.043,78.067,99.348,37,105.652,37C111.957,37,118.261,61.444,124.565,73.667C130.87,85.889,137.174,110.333,143.478,110.333C149.783,110.333,156.087,110.333,162.391,110.333C168.696,110.333,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,120.111,294.783,117.667C301.087,115.222,307.391,110.333,313.696,110.333C320,110.333,326.304,115.222,332.609,117.667C338.913,120.111,345.217,125,351.522,125C357.826,125,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,116.852,408.261,110.333C414.565,103.815,420.87,81,427.174,81C433.478,81,439.783,103,446.087,103C452.391,103,458.696,83.444,465,73.667L465,125Z" class="ct-area"/>
+                                        <path d="M30,103C36.304,81,42.609,37,48.913,37C55.217,37,61.522,110.333,67.826,110.333C74.13,110.333,80.435,98.6,86.739,88.333C93.043,78.067,99.348,37,105.652,37C111.957,37,118.261,61.444,124.565,73.667C130.87,85.889,137.174,110.333,143.478,110.333C149.783,110.333,156.087,110.333,162.391,110.333C168.696,110.333,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,120.111,294.783,117.667C301.087,115.222,307.391,110.333,313.696,110.333C320,110.333,326.304,115.222,332.609,117.667C338.913,120.111,345.217,125,351.522,125C357.826,125,364.13,125,370.435,125C376.739,125,383.043,125,389.348,125C395.652,125,401.957,116.852,408.261,110.333C414.565,103.815,420.87,81,427.174,81C433.478,81,439.783,103,446.087,103C452.391,103,458.696,83.444,465,73.667" class="ct-line"/>
                                         <line x1="30" y1="103" x2="30.01" y2="103" class="ct-point" ct:value="3"/>
                                         <line x1="48.913043478260875" y1="37" x2="48.92304347826087" y2="37" class="ct-point" ct:value="12"/>
                                         <line x1="67.82608695652175" y1="110.33333333333333" x2="67.83608695652175" y2="110.33333333333333" class="ct-point" ct:value="2"/>
@@ -1300,7 +1300,7 @@
                                         <line x1="105.65217391304348" y1="37" x2="105.66217391304349" y2="37" class="ct-point" ct:value="12"/>
                                         <line x1="124.56521739130436" y1="73.66666666666666" x2="124.57521739130436" y2="73.66666666666666" class="ct-point" ct:value="7"/>
                                         <line x1="143.47826086956522" y1="110.33333333333333" x2="143.4882608695652" y2="110.33333333333333" class="ct-point" ct:value="2"/>
-                                        <line x1="162.3913043478261" y1="117.66666666666667" x2="162.40130434782608" y2="117.66666666666667" class="ct-point" ct:value="1"/>
+                                        <line x1="162.3913043478261" y1="110.33333333333333" x2="162.40130434782608" y2="110.33333333333333" class="ct-point" ct:value="2"/>
                                         <line x1="181.30434782608697" y1="125" x2="181.31434782608696" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="200.21739130434784" y1="125" x2="200.22739130434783" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="219.13043478260872" y1="125" x2="219.1404347826087" y2="125" class="ct-point" ct:value="0"/>
@@ -1317,7 +1317,7 @@
                                         <line x1="427.1739130434783" y1="81" x2="427.1839130434783" y2="81" class="ct-point" ct:value="6"/>
                                         <line x1="446.0869565217392" y1="103" x2="446.0969565217392" y2="103" class="ct-point" ct:value="3"/>
                                         <line x1="465.00000000000006" y1="73.66666666666666" x2="465.01000000000005" y2="73.66666666666666" class="ct-point" ct:value="7"/>
-                                    <text x="30" y="98" class="ct-post">3</text><text x="48.913043478260875" y="32" class="ct-post">12</text><text x="67.82608695652175" y="105.33333333333333" class="ct-post">2</text><text x="86.73913043478261" y="83.33333333333334" class="ct-post">5</text><text x="105.65217391304348" y="32" class="ct-post">12</text><text x="124.56521739130436" y="68.66666666666666" class="ct-post">7</text><text x="143.47826086956522" y="105.33333333333333" class="ct-post">2</text><text x="162.3913043478261" y="112.66666666666667" class="ct-post">1</text><text x="294.7826086956522" y="112.66666666666667" class="ct-post">1</text><text x="313.69565217391306" y="105.33333333333333" class="ct-post">2</text><text x="332.60869565217394" y="112.66666666666667" class="ct-post">1</text><text x="408.26086956521743" y="105.33333333333333" class="ct-post">2</text><text x="427.1739130434783" y="76" class="ct-post">6</text><text x="446.0869565217392" y="98" class="ct-post">3</text><text x="465.00000000000006" y="68.66666666666666" class="ct-post">7</text></g>
+                                    <text x="30" y="98" class="ct-post">3</text><text x="48.913043478260875" y="32" class="ct-post">12</text><text x="67.82608695652175" y="105.33333333333333" class="ct-post">2</text><text x="86.73913043478261" y="83.33333333333334" class="ct-post">5</text><text x="105.65217391304348" y="32" class="ct-post">12</text><text x="124.56521739130436" y="68.66666666666666" class="ct-post">7</text><text x="143.47826086956522" y="105.33333333333333" class="ct-post">2</text><text x="162.3913043478261" y="105.33333333333333" class="ct-post">2</text><text x="294.7826086956522" y="112.66666666666667" class="ct-post">1</text><text x="313.69565217391306" y="105.33333333333333" class="ct-post">2</text><text x="332.60869565217394" y="112.66666666666667" class="ct-post">1</text><text x="408.26086956521743" y="105.33333333333333" class="ct-post">2</text><text x="427.1739130434783" y="76" class="ct-post">6</text><text x="446.0869565217392" y="98" class="ct-post">3</text><text x="465.00000000000006" y="68.66666666666666" class="ct-post">7</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -1368,16 +1368,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,114C39.5,116.933,49,122.8,58.5,122.8C68,122.8,77.5,122.8,87,122.8C96.5,122.8,106,122.8,115.5,122.8C125,122.8,134.5,100.8,144,100.8C153.5,100.8,163,111.8,172.5,111.8C182,111.8,191.5,60.467,201,34.8L201,125Z" class="ct-area"/>
-                                            <path d="M30,114C39.5,116.933,49,122.8,58.5,122.8C68,122.8,77.5,122.8,87,122.8C96.5,122.8,106,122.8,115.5,122.8C125,122.8,134.5,100.8,144,100.8C153.5,100.8,163,111.8,172.5,111.8C182,111.8,191.5,60.467,201,34.8" class="ct-line"/>
+                                            <path d="M30,125L30,114C39.5,116.933,49,122.8,58.5,122.8C68,122.8,77.5,122.8,87,122.8C96.5,122.8,106,122.8,115.5,122.8C125,122.8,134.5,98.6,144,98.6C153.5,98.6,163,111.8,172.5,111.8C182,111.8,191.5,60.467,201,34.8L201,125Z" class="ct-area"/>
+                                            <path d="M30,114C39.5,116.933,49,122.8,58.5,122.8C68,122.8,77.5,122.8,87,122.8C96.5,122.8,106,122.8,115.5,122.8C125,122.8,134.5,98.6,144,98.6C153.5,98.6,163,111.8,172.5,111.8C182,111.8,191.5,60.467,201,34.8" class="ct-line"/>
                                             <line x1="30" y1="114" x2="30.01" y2="114" class="ct-point" ct:value="5"/>
                                             <line x1="58.5" y1="122.8" x2="58.51" y2="122.8" class="ct-point" ct:value="1"/>
                                             <line x1="87" y1="122.8" x2="87.01" y2="122.8" class="ct-point" ct:value="1"/>
                                             <line x1="115.5" y1="122.8" x2="115.51" y2="122.8" class="ct-point" ct:value="1"/>
-                                            <line x1="144" y1="100.8" x2="144.01" y2="100.8" class="ct-point" ct:value="11"/>
+                                            <line x1="144" y1="98.6" x2="144.01" y2="98.6" class="ct-point" ct:value="12"/>
                                             <line x1="172.5" y1="111.8" x2="172.51" y2="111.8" class="ct-point" ct:value="6"/>
                                             <line x1="201" y1="34.8" x2="201.01" y2="34.8" class="ct-point" ct:value="41"/>
-                                        <text x="30" y="109" class="ct-post">5</text><text x="58.5" y="117.8" class="ct-post">1</text><text x="87" y="117.8" class="ct-post">1</text><text x="115.5" y="117.8" class="ct-post">1</text><text x="144" y="95.8" class="ct-post">11</text><text x="172.5" y="106.8" class="ct-post">6</text><text x="201" y="29.799999999999997" class="ct-post">41</text></g>
+                                        <text x="30" y="109" class="ct-post">5</text><text x="58.5" y="117.8" class="ct-post">1</text><text x="87" y="117.8" class="ct-post">1</text><text x="115.5" y="117.8" class="ct-post">1</text><text x="144" y="93.6" class="ct-post">12</text><text x="172.5" y="106.8" class="ct-post">6</text><text x="201" y="29.799999999999997" class="ct-post">41</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -1400,7 +1400,7 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M107.987,5A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.2960048426150121"/>
+                                        <path d="M107.987,5A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.11520656314093174"/>
                                     </g>
                                     <g>
                                         <text dx="108" dy="80" text-anchor="middle" class="ct-label">JavaScript</text>
@@ -1659,6 +1659,61 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/npm_and_yarn/discord.js-14.4.0</span>
+                                        in
+                                        <span class="repo">AdamT20054/DJSCaptcha</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">AdamT20054/DJSCaptcha</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d6a08f3</div>
+                                        <div class="message">Merge pull request #11 from AdamT20054/dependabot/npm_and_yarn/discord.js-14.4.0
+
+Bump discord.js from 14.3.0 to 14.4.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c135136</div>
+                                        <div class="message">Bump discord.js from 14.3.0 to 14.4.0
+
+Bumps [discord.js](https://github.com/discordjs/discord.js) from 14.3.0 to 14.4.0.
+- [Release notes](https://github.com/discordjs/discord.js/releases)
+- [Commits](https://github.com/discordjs/discord.js/compare/14.3.0...14.4.0)
+
+---
+updated-dependencies:
+- dependency-name: discord.js
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1707,51 +1762,12 @@ Good progress nevertheless, slowly building it up,
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">AdamT20054/DJSCaptcha</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Interactions</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eaf7497</div>
-                                        <div class="message">2.0.0-3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e0c9fb</div>
-                                        <div class="message">Fixed logging issues, removed Captcha Cancelled</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pre-released
-                                        <span class="bold">v2.0.0-2</span>
-                                        of
-                                        <span class="repo">AdamT20054/DJSCaptcha</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2022, 07:09:54 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 22 Sept 2022, 07:33:53 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
