@@ -1384,7 +1384,7 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M107.987,5A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.8013245033112583"/>
+                                        <path d="M107.987,5A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9900990099009901"/>
                                     </g>
                                     <g>
                                         <text dx="108" dy="80" text-anchor="middle" class="ct-label">JavaScript</text>
@@ -1751,7 +1751,7 @@ Don't really want to drag out this update just to add logging in</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2022, 13:23:19 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 17 Oct 2022, 13:44:02 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
