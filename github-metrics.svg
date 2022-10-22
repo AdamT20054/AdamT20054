@@ -1402,14 +1402,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M81.526,9.828A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.5660740740740741"/>
+                                        <path d="M80.165,10.357A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.5847648926808738"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,81.282,9.921L108,80Z" class="ct-slice-pie" ct:value="0.03448148148148148"/>
+                                        <path d="M108,5A75,75,0,0,0,79.922,10.454L108,80Z" class="ct-slice-pie" ct:value="0.03766690897960745"/>
                                     </g>
                                     <g>
-                                        <text dx="114.72753969772408" dy="116.89160080039285" text-anchor="middle" class="ct-label">Scala</text>
-                                        <text dx="101.2724603022759" dy="43.108399199607156" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="115.08647077410457" dy="116.82433885309771" text-anchor="middle" class="ct-label">Scala</text>
+                                        <text dx="100.91352922589543" dy="43.175661146902286" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1746,7 +1746,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2022, 15:04:04 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 22 Oct 2022, 15:20:58 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
