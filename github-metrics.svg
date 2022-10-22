@@ -1096,10 +1096,10 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="726.8752180090352" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="726.8752180090352" y="0" width="139.58380480002722" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="866.4590228090625" y="0" width="27.101181715316358" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="893.5602045243788" y="0" width="26.439795475621274" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="722.6820500241071" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="722.6820500241071" y="0" width="138.77857946423285" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="861.4606294883399" y="0" width="32.25209984520778" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="893.7127293335477" y="0" width="26.287270666452383" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1111,7 +1111,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>79.01%</div>
+                                <div>78.55%</div>
                             </small>
                         </div>
                     </section>
@@ -1124,7 +1124,7 @@
                                 Scala
                             </div>
                             <small>
-                                <div>15.17%</div>
+                                <div>15.08%</div>
                             </small>
                         </div>
                     </section>
@@ -1137,7 +1137,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.95%</div>
+                                <div>3.51%</div>
                             </small>
                         </div>
                     </section>
@@ -1150,7 +1150,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>2.87%</div>
+                                <div>2.86%</div>
                             </small>
                         </div>
                     </section>
@@ -1268,12 +1268,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 13 commits)</small>
+                    <small class="h-details">(computed from last 14 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 37.1 characters per line of code written</li>
+                        <li>Has approximately 37.6 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -1295,8 +1295,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,70C36.304,88.333,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,125,294.783,125C301.087,125,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,109.722,370.435,97.5C376.739,85.278,383.043,42.5,389.348,42.5C395.652,42.5,401.957,125,408.261,125C414.565,125,420.87,70,427.174,70C433.478,70,439.783,97.5,446.087,97.5C452.391,97.5,458.696,42.5,465,15L465,125Z" class="ct-area"/>
-                                        <path d="M30,70C36.304,88.333,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,125,294.783,125C301.087,125,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,109.722,370.435,97.5C376.739,85.278,383.043,42.5,389.348,42.5C395.652,42.5,401.957,125,408.261,125C414.565,125,420.87,70,427.174,70C433.478,70,439.783,97.5,446.087,97.5C452.391,97.5,458.696,42.5,465,15" class="ct-line"/>
+                                        <path d="M30,125L30,70C36.304,88.333,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,125,294.783,125C301.087,125,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,109.722,370.435,97.5C376.739,85.278,383.043,42.5,389.348,42.5C395.652,42.5,401.957,125,408.261,125C414.565,125,420.87,42.5,427.174,42.5C433.478,42.5,439.783,97.5,446.087,97.5C452.391,97.5,458.696,42.5,465,15L465,125Z" class="ct-area"/>
+                                        <path d="M30,70C36.304,88.333,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,125,200.217,125C206.522,125,212.826,125,219.13,125C225.435,125,231.739,125,238.043,125C244.348,125,250.652,125,256.957,125C263.261,125,269.565,125,275.87,125C282.174,125,288.478,125,294.783,125C301.087,125,307.391,125,313.696,125C320,125,326.304,125,332.609,125C338.913,125,345.217,125,351.522,125C357.826,125,364.13,109.722,370.435,97.5C376.739,85.278,383.043,42.5,389.348,42.5C395.652,42.5,401.957,125,408.261,125C414.565,125,420.87,42.5,427.174,42.5C433.478,42.5,439.783,97.5,446.087,97.5C452.391,97.5,458.696,42.5,465,15" class="ct-line"/>
                                         <line x1="30" y1="70" x2="30.01" y2="70" class="ct-point" ct:value="2"/>
                                         <line x1="48.913043478260875" y1="125" x2="48.92304347826087" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="67.82608695652175" y1="125" x2="67.83608695652175" y2="125" class="ct-point" ct:value="0"/>
@@ -1318,10 +1318,10 @@
                                         <line x1="370.4347826086957" y1="97.5" x2="370.4447826086957" y2="97.5" class="ct-point" ct:value="1"/>
                                         <line x1="389.34782608695656" y1="42.5" x2="389.35782608695655" y2="42.5" class="ct-point" ct:value="3"/>
                                         <line x1="408.26086956521743" y1="125" x2="408.2708695652174" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="427.1739130434783" y1="70" x2="427.1839130434783" y2="70" class="ct-point" ct:value="2"/>
+                                        <line x1="427.1739130434783" y1="42.5" x2="427.1839130434783" y2="42.5" class="ct-point" ct:value="3"/>
                                         <line x1="446.0869565217392" y1="97.5" x2="446.0969565217392" y2="97.5" class="ct-point" ct:value="1"/>
                                         <line x1="465.00000000000006" y1="15" x2="465.01000000000005" y2="15" class="ct-point" ct:value="4"/>
-                                    <text x="30" y="65" class="ct-post">2</text><text x="370.4347826086957" y="92.5" class="ct-post">1</text><text x="389.34782608695656" y="37.5" class="ct-post">3</text><text x="427.1739130434783" y="65" class="ct-post">2</text><text x="446.0869565217392" y="92.5" class="ct-post">1</text><text x="465.00000000000006" y="10" class="ct-post">4</text></g>
+                                    <text x="30" y="65" class="ct-post">2</text><text x="370.4347826086957" y="92.5" class="ct-post">1</text><text x="389.34782608695656" y="37.5" class="ct-post">3</text><text x="427.1739130434783" y="37.5" class="ct-post">3</text><text x="446.0869565217392" y="92.5" class="ct-post">1</text><text x="465.00000000000006" y="10" class="ct-post">4</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -1370,16 +1370,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,125C39.5,125,49,125,58.5,125C68,125,77.5,93.571,87,93.571C96.5,93.571,106,125,115.5,125C125,125,134.5,80.102,144,62.143C153.5,44.184,163,15,172.5,15C182,15,191.5,88.333,201,125L201,125Z" class="ct-area"/>
-                                            <path d="M30,125C39.5,125,49,125,58.5,125C68,125,77.5,93.571,87,93.571C96.5,93.571,106,125,115.5,125C125,125,134.5,80.102,144,62.143C153.5,44.184,163,15,172.5,15C182,15,191.5,88.333,201,125" class="ct-line"/>
+                                            <path d="M30,125L30,125C39.5,125,49,125,58.5,125C68,125,77.5,93.571,87,93.571C96.5,93.571,106,125,115.5,125C125,125,134.5,80.102,144,62.143C153.5,44.184,163,15,172.5,15C182,15,191.5,77.857,201,109.286L201,125Z" class="ct-area"/>
+                                            <path d="M30,125C39.5,125,49,125,58.5,125C68,125,77.5,93.571,87,93.571C96.5,93.571,106,125,115.5,125C125,125,134.5,80.102,144,62.143C153.5,44.184,163,15,172.5,15C182,15,191.5,77.857,201,109.286" class="ct-line"/>
                                             <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="58.5" y1="125" x2="58.51" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="87" y1="93.57142857142857" x2="87.01" y2="93.57142857142857" class="ct-point" ct:value="2"/>
                                             <line x1="115.5" y1="125" x2="115.51" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="144" y1="62.142857142857146" x2="144.01" y2="62.142857142857146" class="ct-point" ct:value="4"/>
                                             <line x1="172.5" y1="15" x2="172.51" y2="15" class="ct-point" ct:value="7"/>
-                                            <line x1="201" y1="125" x2="201.01" y2="125" class="ct-point" ct:value="0"/>
-                                        <text x="87" y="88.57142857142857" class="ct-post">2</text><text x="144" y="57.142857142857146" class="ct-post">4</text><text x="172.5" y="10" class="ct-post">7</text></g>
+                                            <line x1="201" y1="109.28571428571429" x2="201.01" y2="109.28571428571429" class="ct-point" ct:value="1"/>
+                                        <text x="87" y="88.57142857142857" class="ct-post">2</text><text x="144" y="57.142857142857146" class="ct-post">4</text><text x="172.5" y="10" class="ct-post">7</text><text x="201" y="104.28571428571429" class="ct-post">1</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -1402,14 +1402,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M80.165,10.357A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.5847648926808738"/>
+                                        <path d="M66.831,17.309A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.572627477426848"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,79.922,10.454L108,80Z" class="ct-slice-pie" ct:value="0.03766690897960745"/>
+                                        <path d="M108,5A75,75,0,0,0,66.613,17.453L108,80Z" class="ct-slice-pie" ct:value="0.058353002884867555"/>
                                     </g>
                                     <g>
-                                        <text dx="115.08647077410457" dy="116.82433885309771" text-anchor="middle" class="ct-label">Scala</text>
-                                        <text dx="100.91352922589543" dy="43.175661146902286" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="118.74240043207828" dy="115.9284126139311" text-anchor="middle" class="ct-label">Scala</text>
+                                        <text dx="97.25759956792172" dy="44.071587386068884" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -1665,66 +1665,6 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">Somewhat-Capable-Developers/.github</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">Somewhat-Capable-Developers/.github</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">main</span>
-                                        in
-                                        <span class="repo">Somewhat-Capable-Developers/profile</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">Somewhat-Capable-Developers/profile</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1735,8 +1675,68 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d281fa3</div>
-                                        <div class="message">save</div>
+                                        <div class="sha">#aa490fa</div>
+                                        <div class="message">API V1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">main</span>
+                                        in
+                                        <span class="repo">Somewhat-Capable-Developers/.github</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">Somewhat-Capable-Developers/.github</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">main</span>
+                                        in
+                                        <span class="repo">Somewhat-Capable-Developers/profile</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">Somewhat-Capable-Developers/profile</span>
                                     </div>
                                 </div>
                             </section>
@@ -1746,7 +1746,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2022, 21:01:24 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 22 Oct 2022, 21:21:10 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
