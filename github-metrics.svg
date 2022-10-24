@@ -1108,11 +1108,11 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="749.9405596159958" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="749.9405596159958" y="0" width="109.76113461892257" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="859.7016942349184" y="0" width="27.370273118027796" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="887.0719673529461" y="0" width="20.790821361074407" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="907.8627887140204" y="0" width="12.137211285979495" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="749.0936306562465" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="749.0936306562465" y="0" width="109.63717828348808" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="858.7308089397346" y="0" width="28.378344966303924" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="887.1091539060386" y="0" width="20.767341701944247" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="907.8764956079829" y="0" width="12.123504392017187" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1124,7 +1124,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>81.52%</div>
+                                <div>81.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1148,7 +1148,7 @@
                                 Scala
                             </div>
                             <small>
-                                <div>11.93%</div>
+                                <div>11.92%</div>
                             </small>
                         </div>
                     </section>
@@ -1161,7 +1161,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.98%</div>
+                                <div>3.08%</div>
                             </small>
                         </div>
                     </section>
@@ -1776,7 +1776,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Oct 2022, 01:44:31 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 24 Oct 2022, 02:14:43 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
