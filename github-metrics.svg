@@ -1102,11 +1102,11 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="667.7087095329587" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="667.7087095329587" y="0" width="101.70330670441905" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="769.4120162373778" y="0" width="94.805599295032" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="864.2176155324097" y="0" width="40.72438351414992" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="904.9419990465597" y="0" width="15.058000953440331" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="661.2890764718506" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="661.2890764718506" y="0" width="109.5707561342013" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="770.8598326060519" y="0" width="93.89409829029258" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="864.7539308963445" y="0" width="40.33284212032334" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="905.0867730166678" y="0" width="14.91322698333214" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1118,7 +1118,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>72.58%</div>
+                                <div>71.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1129,7 +1129,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>1.64%</div>
+                                <div>1.62%</div>
                             </small>
                         </div>
                     </section>
@@ -1142,7 +1142,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>11.05%</div>
+                                <div>11.91%</div>
                             </small>
                         </div>
                     </section>
@@ -1155,7 +1155,7 @@
                                 Scala
                             </div>
                             <small>
-                                <div>10.3%</div>
+                                <div>10.21%</div>
                             </small>
                         </div>
                     </section>
@@ -1168,7 +1168,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>4.43%</div>
+                                <div>4.38%</div>
                             </small>
                         </div>
                     </section>
@@ -1291,9 +1291,9 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 131.4 characters per line of code written</li>
+                        <li>Has approximately 108.0 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
-                        <li>Mostly active on Saturday</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
@@ -1388,16 +1388,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,125C39.5,100.556,49,51.667,58.5,51.667C68,51.667,77.5,76.111,87,88.333C96.5,100.556,106,125,115.5,125C125,125,134.5,125,144,125C153.5,125,163,104.63,172.5,88.333C182,72.037,191.5,39.444,201,15L201,125Z" class="ct-area"/>
-                                            <path d="M30,125C39.5,100.556,49,51.667,58.5,51.667C68,51.667,77.5,76.111,87,88.333C96.5,100.556,106,125,115.5,125C125,125,134.5,125,144,125C153.5,125,163,104.63,172.5,88.333C182,72.037,191.5,39.444,201,15" class="ct-line"/>
+                                            <path d="M30,125L30,125C39.5,88.333,49,15,58.5,15C68,15,77.5,72.037,87,88.333C96.5,104.63,106,125,115.5,125C125,125,134.5,125,144,125C153.5,125,163,100.556,172.5,88.333C182,76.111,191.5,63.889,201,51.667L201,125Z" class="ct-area"/>
+                                            <path d="M30,125C39.5,88.333,49,15,58.5,15C68,15,77.5,72.037,87,88.333C96.5,104.63,106,125,115.5,125C125,125,134.5,125,144,125C153.5,125,163,100.556,172.5,88.333C182,76.111,191.5,63.889,201,51.667" class="ct-line"/>
                                             <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
-                                            <line x1="58.5" y1="51.66666666666667" x2="58.51" y2="51.66666666666667" class="ct-point" ct:value="2"/>
+                                            <line x1="58.5" y1="15" x2="58.51" y2="15" class="ct-point" ct:value="3"/>
                                             <line x1="87" y1="88.33333333333334" x2="87.01" y2="88.33333333333334" class="ct-point" ct:value="1"/>
                                             <line x1="115.5" y1="125" x2="115.51" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="144" y1="125" x2="144.01" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="172.5" y1="88.33333333333334" x2="172.51" y2="88.33333333333334" class="ct-point" ct:value="1"/>
-                                            <line x1="201" y1="15" x2="201.01" y2="15" class="ct-point" ct:value="3"/>
-                                        <text x="58.5" y="46.66666666666667" class="ct-post">2</text><text x="87" y="83.33333333333334" class="ct-post">1</text><text x="172.5" y="83.33333333333334" class="ct-post">1</text><text x="201" y="10" class="ct-post">3</text></g>
+                                            <line x1="201" y1="51.66666666666667" x2="201.01" y2="51.66666666666667" class="ct-point" ct:value="2"/>
+                                        <text x="58.5" y="10" class="ct-post">3</text><text x="87" y="83.33333333333334" class="ct-post">1</text><text x="172.5" y="83.33333333333334" class="ct-post">1</text><text x="201" y="46.66666666666667" class="ct-post">2</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -1674,6 +1674,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AdamT20054/Algochat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2f74c09</div>
+                                        <div class="message">(shrug)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -1759,34 +1779,12 @@ Made the KoFi link a hyperlink</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AdamT20054/GasWatch</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#11e489a</div>
-                                        <div class="message">Updated API reference
-
-Updated the API reference in the Readme to https://www.ethgasstation.info</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2023, 22:01:23 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 27 Feb 2023, 22:20:05 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
