@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1484" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1517" class="large">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1113,7 +1113,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    8 Languages
+                    9 Languages
                 </h2>
             </section>
             <section class="column">
@@ -1123,11 +1123,11 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="613.8350881293627" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="613.8350881293627" y="0" width="167.72701677592087" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="781.5621049052835" y="0" width="87.15627423690277" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="868.7183791421862" y="0" width="37.43856443164795" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="906.1569435738342" y="0" width="13.843056426165763" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="607.0374145014026" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="607.0374145014026" y="0" width="176.05776605692552" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="783.0951805583283" y="0" width="86.19109658846149" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="869.2862771467898" y="0" width="37.02396587410824" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="906.310243020898" y="0" width="13.689756979102093" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1139,7 +1139,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>66.72%</div>
+                                <div>65.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1150,7 +1150,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>1.5%</div>
+                                <div>1.49%</div>
                             </small>
                         </div>
                     </section>
@@ -1163,7 +1163,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>18.23%</div>
+                                <div>19.14%</div>
                             </small>
                         </div>
                     </section>
@@ -1176,7 +1176,7 @@
                                 Scala
                             </div>
                             <small>
-                                <div>9.47%</div>
+                                <div>9.37%</div>
                             </small>
                         </div>
                     </section>
@@ -1189,7 +1189,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>4.07%</div>
+                                <div>4.02%</div>
                             </small>
                         </div>
                     </section>
@@ -1575,6 +1575,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#735dd75</div>
+                                        <div class="message">History search works</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AdamT20054/Algochat</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#98320bb</div>
                                         <div class="message">done some shit, encryption and upload sorted, decryption is maybe sorted idk i cant remember.
 
@@ -1637,28 +1657,12 @@ brain is fried</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">imgbot</span>
-                                        in
-                                        <span class="repo">AdamT20054/AdamT20054.github.io</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2023, 02:11:53 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Apr 2023, 02:42:37 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
