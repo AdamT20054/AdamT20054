@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1680" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1597" class="large">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1551,44 +1551,34 @@ Inactive till the 19th due to exams :)</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AdamT20054/SauronRE</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">CandleMaker</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b7a2a49</div>
+                                        <div class="message">Starting Stale Candle fix
+
+Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
+                                        Deleted
                       branch
                                         <span class="code">CandleMakerOOP</span>
-                                        in
-                                        <span class="repo">AdamT20054/SauronRE</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">detached</span>
-                                        in
-                                        <span class="repo">AdamT20054/SauronRE</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">CandleMakerBETA</span>
                                         in
                                         <span class="repo">AdamT20054/SauronRE</span>
                                     </div>
@@ -1602,107 +1592,57 @@ Inactive till the 19th due to exams :)</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 16 commits in
+                                        Pushed 9 commits in
                                         <span class="repo">AdamT20054/SauronRE</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">CandleMaker</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0525ac1</div>
-                                        <div class="message">Merge pull request #8 from AdamT20054/CandleMakerBETA
+                                        <div class="sha">#8d50432</div>
+                                        <div class="message">Merge pull request #10 from AdamT20054/CandleMakerOOP
 
-Candle maker beta</div>
+Candle maker oop</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fc10441</div>
-                                        <div class="message">Merge pull request #9 from AdamT20054/restyled/CandleMakerBETA
+                                        <div class="sha">#9dd30b1</div>
+                                        <div class="message">Merge pull request #11 from AdamT20054/restyled/CandleMakerOOP
 
-Restyle Candle maker beta</div>
+Restyle Candle maker oop</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0a99891</div>
+                                        <div class="sha">#2e7d0f5</div>
                                         <div class="message">Restyled by yapf</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#38678a0</div>
-                                        <div class="message">Restyled by reorder-python-imports</div>
+                                        <div class="sha">#a4c5c40</div>
+                                        <div class="message">Restyled by whitespace</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9bfd33a</div>
+                                        <div class="sha">#4af2665</div>
                                         <div class="message">Restyled by black</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#de6a7f5</div>
+                                        <div class="sha">#8f24649</div>
                                         <div class="message">Restyled by autopep8</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bea001f</div>
-                                        <div class="message">Log candles at end of day.
-
-00:00 data SLIGHTly out of skew.
-
-Uploads to file, and database.
-
-Non OOP, no error handling, rough code.
+                                        <div class="sha">#24906e2</div>
+                                        <div class="message">Added toggle for logging - hardcoded.
 
 Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e488314</div>
-                                        <div class="message">Merge pull request #6 from AdamT20054/detached
+                                        <div class="sha">#88e874f</div>
+                                        <div class="message">Working OOP model with error handling, logging and some more stuff.
 
-Log candles at end of candle day.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7e5c44</div>
-                                        <div class="message">Merge branch 'CandleMakerBETA' into detached</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0257f2</div>
-                                        <div class="message">Log candles at end of candle day.
-
-Split data at 00:00 issue, where ONLY that candle is innacurate. Possible data truncatin somewhere?
+Just need to deal with "stale" candles (where no trades took place for a 15min period so the candle was skipped, mainly an issue with pre-2014)
 
 Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e67ed41</div>
-                                        <div class="message">Log candles at end of candle day.
-
-Split data at 00:00 issue. MariaDB upload issues.
-
-Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d915abb</div>
-                                        <div class="message">Log candles at end of candle day.
-
-Truncation issues between days. MariaDB upload issues.
-
-Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e83337</div>
-                                        <div class="message">Accurate within 0.002$ based on KrakenPro 15m OHCL prices.
-
-Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd92865</div>
-                                        <div class="message">Accurate within 2$ based on Coingecko prices with the UTC equivalent timezone.
-
-Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b01aae</div>
-                                        <div class="message">Updated to BTCUSD directly, slight accuracy improvement.
-
-Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee8e8e8</div>
-                                        <div class="message">Working, data is SLIGHTLY inaccurate though.
+                                        <div class="sha">#616dc2a</div>
+                                        <div class="message">Start of conversion to a more scalable, well-written OOP model.
 
 Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
                                     </div>
@@ -1717,12 +1657,28 @@ Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#8 Candle maker beta</span>
+                                        <span class="issue">#10 Candle maker oop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">AdamT20054/SauronRE</span></div>
-                                    <div>12 files changed <span class="code">++44317 --10869</span></div>
+                                    <div>4 files changed <span class="code">++16869 --138</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">restyled/CandleMakerOOP</span>
+                                        in
+                                        <span class="repo">AdamT20054/SauronRE</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1731,7 +1687,7 @@ Signed-off-by: AdamT &lt;SauronRE@AdamT05.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2023, 02:28:13 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jun 2023, 02:58:14 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
