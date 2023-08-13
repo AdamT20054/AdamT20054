@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1530" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1547" class="large">
     <defs>
         <style/>
     </defs>
@@ -1095,11 +1095,11 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="555.7166814687184" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="555.7166814687184" y="0" width="238.15347832084234" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="793.8701597895608" y="0" width="79.4074984693791" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="873.2776582589399" y="0" width="34.110025627312574" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="907.3876838862525" y="0" width="12.612316113747518" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="557.5219184712333" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="557.5219184712333" y="0" width="236.9732884810337" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="794.495206952267" y="0" width="79.01398784942533" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="873.5091948016924" y="0" width="33.94099049095931" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="907.4501852926517" y="0" width="12.549814707348377" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1111,7 +1111,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>60.4%</div>
+                                <div>60.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1122,7 +1122,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>1.37%</div>
+                                <div>1.36%</div>
                             </small>
                         </div>
                     </section>
@@ -1135,7 +1135,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>25.89%</div>
+                                <div>25.76%</div>
                             </small>
                         </div>
                     </section>
@@ -1148,7 +1148,7 @@
                                 Scala
                             </div>
                             <small>
-                                <div>8.63%</div>
+                                <div>8.59%</div>
                             </small>
                         </div>
                     </section>
@@ -1161,7 +1161,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.71%</div>
+                                <div>3.69%</div>
                             </small>
                         </div>
                     </section>
@@ -1542,6 +1542,40 @@ Inactive till the 19th due to exams :)</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">AdamT20054/ReactJS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e9d1d5f</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main'
+
+# Conflicts:
+#	monsters-rolodex/package-lock.json
+#	monsters-rolodex/package.json
+#	monsters-rolodex/src/App.js
+#	monsters-rolodex/src/index.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d4da0b</div>
+                                        <div class="message">Added a button that changes the state.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b8cda4</div>
+                                        <div class="message">Base Project.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">AdamT20054/ReactJS</span>
                                     </div>
@@ -1615,51 +1649,12 @@ Inactive till the 19th due to exams :)</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">AdamT20054/DJSCaptcha</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#214c22c</div>
-                                        <div class="message">Merge pull request #38 from AdamT20054/dependabot/npm_and_yarn/node-fetch-3.3.2
-
-Bump node-fetch from 2.6.12 to 3.3.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1026d75</div>
-                                        <div class="message">Bump node-fetch from 2.6.12 to 3.3.2
-
-Bumps [node-fetch](https://github.com/node-fetch/node-fetch) from 2.6.12 to 3.3.2.
-- [Release notes](https://github.com/node-fetch/node-fetch/releases)
-- [Commits](https://github.com/node-fetch/node-fetch/compare/v2.6.12...v3.3.2)
-
----
-updated-dependencies:
-- dependency-name: node-fetch
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2023, 01:44:49 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Aug 2023, 02:11:15 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
