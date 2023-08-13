@@ -1095,11 +1095,11 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="560.3039419260647" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="560.3039419260647" y="0" width="235.15451575981896" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="795.4584576858837" y="0" width="78.40755458170949" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="873.8660122675931" y="0" width="33.68049299762724" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="907.5465052652204" y="0" width="12.453494734779605" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="559.9830924969374" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="559.9830924969374" y="0" width="235.01524779760666" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="794.998340294544" y="0" width="78.36111847431278" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="873.3594587688568" y="0" width="33.660546055035354" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="907.0200048238922" y="0" width="12.979995176107883" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1111,7 +1111,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>60.9%</div>
+                                <div>60.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1122,7 +1122,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>1.35%</div>
+                                <div>1.41%</div>
                             </small>
                         </div>
                     </section>
@@ -1135,7 +1135,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>25.56%</div>
+                                <div>25.55%</div>
                             </small>
                         </div>
                     </section>
@@ -1549,6 +1549,26 @@ Inactive till the 19th due to exams :)</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#c04e03f</div>
+                                        <div class="message">Project base complete.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AdamT20054/ReactJS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#feac6ce</div>
                                         <div class="message">Own implementation of compartmentalising the card-containers.components.jsx</div>
                                     </div>
@@ -1615,32 +1635,12 @@ Inactive till the 19th due to exams :)</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AdamT20054/ReactJS</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#97f457a</div>
-                                        <div class="message">Added components.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2023, 18:17:56 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Aug 2023, 18:31:14 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
