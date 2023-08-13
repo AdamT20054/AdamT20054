@@ -1095,11 +1095,11 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="558.2292760651861" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="558.2292760651861" y="0" width="236.51084712605834" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="794.7401231912445" y="0" width="78.85979605912988" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="873.5999192503743" y="0" width="33.87475636924689" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="907.4746756196212" y="0" width="12.525324380378802" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="558.2657884429151" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="558.2657884429151" y="0" width="236.48697683248304" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="794.7527652753981" y="0" width="78.85183698872743" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="873.6046022641256" y="0" width="33.871337496966184" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="907.4759397610917" y="0" width="12.52406023890826" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1542,6 +1542,29 @@ Inactive till the 19th due to exams :)</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AdamT20054/ReactJS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8285f31</div>
+                                        <div class="message">Course implementation. Differences:
+- They used a const and not state to store the filtered list
+
+Using their version for compatability with the course.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">AdamT20054/ReactJS</span>
                                     </div>
@@ -1651,32 +1674,12 @@ tree
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AdamT20054/ReactJS</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#40c26ff</div>
-                                        <div class="message">Base Project.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2023, 04:31:18 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Aug 2023, 04:46:11 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
