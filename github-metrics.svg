@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1118,11 +1118,11 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="559.983952238806" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="559.983952238806" y="0" width="235.01468656716418" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="794.9986388059701" y="0" width="78.36093134328358" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="873.3595701492537" y="0" width="33.660465671641795" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="907.0200358208955" y="0" width="12.979964179104478" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="560.0570152924182" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="560.0570152924182" y="0" width="234.96699177480392" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="795.0240070672222" y="0" width="78.34502847183258" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="873.3690355390547" y="0" width="33.65363448613416" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="907.022670025189" y="0" width="12.977329974811083" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1134,7 +1134,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>60.87%</div>
+                                <div>60.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1158,7 +1158,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>25.55%</div>
+                                <div>25.54%</div>
                             </small>
                         </div>
                     </section>
@@ -1655,7 +1655,7 @@ Was likely fixed in a newer version of Axios, or is a network dependant bug as I
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2023, 22:31:22 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Aug 2023, 22:46:13 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
