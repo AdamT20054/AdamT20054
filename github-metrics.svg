@@ -1102,12 +1102,12 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="637.524092155923" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="637.524092155923" y="0" width="174.04785359184908" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="811.571945747772" y="0" width="58.032764270921575" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="869.6047100186936" y="0" width="24.928364633829293" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="894.5330746525229" y="0" width="15.854186083939211" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="910.3872607364623" y="0" width="9.612739263537854" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="636.6284071565296" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="636.6284071565296" y="0" width="173.77893301878132" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="810.407340175311" y="0" width="57.943098102092854" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="868.3504382774039" y="0" width="24.889847927276325" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="893.2402862046803" y="0" width="17.16182713293826" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="910.4021133376185" y="0" width="9.597886662381603" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1119,7 +1119,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>69.3%</div>
+                                <div>69.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1130,7 +1130,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>1.72%</div>
+                                <div>1.87%</div>
                             </small>
                         </div>
                     </section>
@@ -1143,7 +1143,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>18.92%</div>
+                                <div>18.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1167,7 +1167,7 @@
                                 Scala
                             </div>
                             <small>
-                                <div>6.31%</div>
+                                <div>6.3%</div>
                             </small>
                         </div>
                     </section>
@@ -2020,7 +2020,7 @@ Created a new file, `requestChannel.js`, to handle the 'requestChannel' event fo
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2024, 01:34:33 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Feb 2024, 01:58:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
