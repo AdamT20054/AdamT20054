@@ -1108,12 +1108,12 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="567.3484798140162" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="567.3484798140162" y="0" width="181.6645059409632" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="749.0129857549794" y="0" width="110.84736866410833" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="859.8603544190877" y="0" width="36.95983077631814" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="896.8201851954059" y="0" width="12.232898822845648" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="909.0530840182514" y="0" width="10.946915981748532" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="566.7917870215856" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="566.7917870215856" y="0" width="182.38897434541363" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="749.1807613669993" y="0" width="110.73860318153329" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="859.9193645485325" y="0" width="36.923565108682325" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="896.8429296572149" y="0" width="12.220895676900069" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="909.0638253341149" y="0" width="10.936174665884993" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1125,7 +1125,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>61.67%</div>
+                                <div>61.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1149,7 +1149,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>19.75%</div>
+                                <div>19.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1173,7 +1173,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>12.05%</div>
+                                <div>12.04%</div>
                             </small>
                         </div>
                     </section>
@@ -1186,7 +1186,7 @@
                                 Scala
                             </div>
                             <small>
-                                <div>4.02%</div>
+                                <div>4.01%</div>
                             </small>
                         </div>
                     </section>
@@ -1808,7 +1808,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    27 views in last two weeks
+                                    26 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1929,7 +1929,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2024, 18:46:11 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2024, 19:01:04 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
