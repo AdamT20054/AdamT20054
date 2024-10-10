@@ -1845,6 +1845,33 @@
                                     <div>opened by KamuiX in <span class="repo">rdavydov/Twitch-Channel-Points-Miner-v2</span></div>
                                     <div class="comment">
                                         <i>
+                                            I am also using a "local DNS" or better say my router acts as a DNS proxy for DNS over SSL requests. It also prohibits all DNS requests to bypass my router. I had enabled IPv6 using SLAAC. This means that ISP gives me a few IPv6 addresses to assign to every device in my local LAN but also acts as a DHCP server. This means pushes it's DNS servers to my clients. My clients try to make calls to that DNS servers but as I said my router doesn't allow that for security reason (I enabled), every dns request has to pass through it. IPv4 on the other hand works as expected, I will not explain the reasons here.
+@AdamT20054 I don't know if your local DNS is a DNS service or a proxy to a service but something is not ok there try use
+                                            <code>sudo systemctl status systemd-resolved</code>
+                                            and check that everything is ok and there are no errors
+                                        </i>
+                                        I've got two unbound instances running on two seperate servers, all LXCs point towards these two for DNS resolving and no device can bypass it. I don't use IPV6 at all, it's disabled at a device AND hardware level (IPV6 rollout in the UK is painfully behind).
+DNS is resolving fine, I've checked the logs for Unbound and it is resolving the twitch requests correctly. I had a feeling it might be an issue with the Cache but from my testing so far it doesn't appear to be. 
+From having issues to not having issues, I've changed NOTHING. I havent rebooted anything, everything is the same but now it works - which is why i believe the issue to be on Twitch.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#603 Connections errors and problem in name resolution?</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by KamuiX in <span class="repo">rdavydov/Twitch-Channel-Points-Miner-v2</span></div>
+                                    <div class="comment">
+                                        <i>
                                             I am receiving the same DNS error:
                                             <code>miner_1 | 09/10/24 22:17:28 - ERROR - [send_minute_watched_events]: Error while trying to send minute watched: HTTPSConnectionPool(host='usw22.playlist.ttvnw.net', port=443): Max retries exceeded with url: .m3u8 (Caused by NameResolutionError(": Failed to resolve 'usw22.playlist.ttvnw.net' ([Errno -2] Name or service not known)"))</code>
                                             I don't have any torrenting or anything set up, can confirm a flawless internet connection through my router's logs. DNS server in use is CloudFlare 1.1.1.1 / 1.0.0.1 / 2606:4700:4700::1111 / 2606:4700:4700::1001 on a router level. Gonna check if switching from my router's domain, which passes through DNS requests to 1.1.1.1 to editing the DNS resolutions settings in resolv.conf directly.
@@ -1908,30 +1935,12 @@ Ill investigate the cause when i finish work :)
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#603 Connections errors and problem in name resolution?</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by KamuiX in <span class="repo">rdavydov/Twitch-Channel-Points-Miner-v2</span></div>
-                                    <div class="comment">Reset the cookies..
-Took a while to grab the streamer list, though it seems to be working like normal for now. Will come back in 24h with my findings</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2024, 22:46:05 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2024, 23:01:18 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
