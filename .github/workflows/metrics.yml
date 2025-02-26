@@ -1,83 +1,63 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "*/15 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule: [{cron: "0 */4 * * *"}]
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - repo
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: AdamT20054
-          config_order: base.header, repositories.featured, isocalendar, languages, wakatime, base.activity, base.community, habits, repositories, base.metadata, stars
+          user: Keanu73
           template: classic
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
-          base_skip: yes
+          repositories_forks: no
           config_display: large
-          config_octicon: yes
           config_timezone: Europe/London
-          plugin_activity: yes
-          plugin_activity_days: 30
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 350
-          plugin_activity_visibility: all
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
-          plugin_habits_days: 365
-          plugin_habits_facts: yes
-          plugin_habits_from: 300
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 1%
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 365
-          plugin_wakatime_languages_other: yes
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          
+          plugin_activity_visibility: public
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 0 
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 900
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 600
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 1%
-          plugin_repositories: yes
-          plugin_repositories_featured: DJScaptcha
-          plugin_repositories_order: featured, pinned, starred, random
-          plugin_repositories_pinned: 0
-          plugin_repositories_starred: 0
-          plugin_traffic: yes
-          repositories_batch: 500
-          repositories_forks: yes
+
+          
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          
+          plugin_habits: yes
+          
+          plugin_music: yes
+          plugin_music_provider: lastfm
+          plugin_music_token: ${{ secrets.LASTFM_APIKEY }}
+          plugin_music_mode: recent
+          
+          plugin_lines: yes
+          
+          plugin_notable: yes
+          
+          plugin_screenshot: no
+          
+          plugin_skyline: no
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_year: current-year
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 365
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
