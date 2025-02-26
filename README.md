@@ -2,7 +2,7 @@
 Hey, I'm **Adam**! I'm a young developer who has a deep passion for anything open-source, impactful, or just plain interesting. If you wish to contact me, shoot me an email at `GithubContact@AdamT05.com`!
 [![](https://img.shields.io/badge/Email_me-blue)](mailto:GithubContact@AdamT05.com)
 [![wakatime](https://wakatime.com/badge/user/cbefb74f-5a34-4ea3-98ad-ed1e9c375824.svg)](https://wakatime.com/@cbefb74f-5a34-4ea3-98ad-ed1e9c375824)
-[![]](https://komarev.com/ghpvc/?username=adamt20054&label=Profile%20views&color=0e75b6&style=flat)
+![]](https://komarev.com/ghpvc/?username=adamt20054&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Specialisations
 I have a number of years in IT, mostly with Linux system administration. Most of my open source projects have a public instance hosted by myself on my own 4 node HA-cluster homelab. 
