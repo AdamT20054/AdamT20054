@@ -3,7 +3,6 @@
 Hey, I'm **Adam**! I'm a young developer with a deep passion for anything open-source, impactful, or just plain interesting. If you wish to contact me, shoot me an email at `GithubContact@AdamT05.com`!  
 
 [![Email Me](https://img.shields.io/badge/Email_me-blue?style=flat-square)](mailto:GithubContact@AdamT05.com) 
-[![Wakatime](https://wakatime.com/badge/user/cbefb74f-5a34-4ea3-98ad-ed1e9c375824.svg)](https://wakatime.com/@cbefb74f-5a34-4ea3-98ad-ed1e9c375824) 
 ![Profile Views](https://komarev.com/ghpvc/?username=adamt20054&label=Profile%20views&color=0e75b6&style=flat)  
 
 
