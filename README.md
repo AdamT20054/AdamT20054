@@ -12,9 +12,9 @@ I have a number of years in IT, mostly with Linux system administration. Most of
 
 On the developer side, I have considerable experience with backend development in **Node.js, JavaScript/TypeScript, and Python**. I'm not generally a front-end guy—I cannot make a decent-looking UI for the life of me—however, I am experienced with **React and its surrounding frameworks**.  
 
-I lean towards **Docker** deployments for most projects that I host, as it integrates well with my **CI/CD pipeline**, compared to running on bare metal.  
+I lean towards **Docker** deployments for most projects that I host, as it integrates well with my **CI/CD pipeline**, and the reproducability aspect is a nice-to-have.  
 
-I'm currently learning **Rust** and expect to start releasing **Rust-based projects** around the end of March.  
+I'm currently learning **Rust** and expect to start releasing **Rust-based projects** around the end of 2025.  
 
 ---
 
