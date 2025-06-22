@@ -41,3 +41,7 @@ I'm currently learning **Rust** and expect to start releasing **Rust-based proje
 ## Statistics  
 
 ![Metrics](https://raw.githubusercontent.com/AdamT20054/AdamT20054/main/github-metrics.svg)  
+
+
+
+Don't let perfectionism be the enemy of progress.
